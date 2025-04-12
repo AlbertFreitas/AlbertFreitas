@@ -1,5 +1,5 @@
 ### Hi there 👋
- :rocket: I'm Albert Freitas, I'm 19 years old. I'm a Junior Front-End programmer, I'm currently learning and creating projects with: :computer:
+ :rocket: I'm Albert Freitas, I'm 21 years old. I'm a Junior Front-End programmer, I'm currently learning and creating projects with: :computer:
 <br>
 <br>
  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
