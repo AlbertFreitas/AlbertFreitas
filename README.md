@@ -9,8 +9,8 @@
  I am currently training myself in Artificial Intelligence, studying the following languages: 
  - Phyton
  - R language
- - Numpy
- - ChatGPT 
+
+
  <br>
  ###Connect With Me
  <br>
