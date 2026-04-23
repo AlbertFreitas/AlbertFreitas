@@ -1,37 +1,22 @@
-### Hi there 👋
- :rocket: I'm Albert Freitas, I'm 21 years old. I'm a Junior Front-End programmer, I'm currently learning and creating projects with: :computer:
-<br>
-<br>
- - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
- - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
- - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-css" />
- - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" />
- I am currently training myself in Artificial Intelligence, studying the following languages: 
- - Phyton
- - R language
+# Olá! 👋 Sou o Albert Freitas
 
+[cite_start]Sou **Desenvolvedor Web Full Stack** apaixonado por construir soluções de ponta a ponta, criar APIs REST robustas e desenvolver sistemas de gestão eficientes. 
 
- <br>
- ###Connect With Me
- <br>
- <br>
- 
- <a href="https://www.instagram.com/albert.dsf/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="logo-insta" />
- 
- ![Albert stats](https://github-readme-stats.vercel.app/api?username=AlbertFreitas&show_icons=true&theme=dark)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertFreitas)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**AlbertFreitas/AlbertFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]Atualmente, curso **Bacharelado em Ciência e Tecnologia na UFMA**  [cite_start]e possuo vivência prática entregando sistemas sob demanda e atuando em equipes ágeis corporativas[cite: 6, 16].
 
-Here are some ideas to get you started:
+### 💻 Tecnologias e Ferramentas
+* [cite_start]**Linguagens:** TypeScript, JavaScript, Java, Python [cite: 48]
+* [cite_start]**Backend:** Node.js, Express, Prisma ORM, API REST 
+* [cite_start]**Frontend:** React.js, Tailwind, React Router, HTML, CSS [cite: 48]
+* [cite_start]**Banco de Dados:** PostgreSQL, MongoDB [cite: 49]
+* [cite_start]**DevOps e Versionamento:** Docker, Git [cite: 50]
+* [cite_start]**Metodologias:** Scrum, Kanban [cite: 50]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Destaques da Minha Trajetória
+- [cite_start]🏆 **Programa Jovem Tech (Grupo Mateus):** Atuei como Desenvolvedor Backend criando dashboards de Business Intelligence (vencedor de desafio) e sistemas de PDV para controle de avarias[cite: 9, 13, 14].
+- [cite_start]💼 **Projetos Sob Demanda:** Modelei bancos de dados e desenvolvi sistemas completos, como um gerenciador para coworking e um e-commerce de delivery com integração front e back[cite: 18, 19, 20].
+- [cite_start]🏛️ **Suporte de TI:** Experiência com suporte tecnológico para o setor público (Prefeitura de Godofredo Viana) e Rádio Jangada FM, garantindo alta disponibilidade e continuidade das operações[cite: 35, 41, 42, 43].
+
+### 📬 Como me encontrar
+- [cite_start]**E-mail:** freitasalbert4@gmail.com [cite: 2]
+- [cite_start]**LinkedIn:** [Acessar meu perfil](www.linkedin.com/in/albert-freitas) [cite: 2]
