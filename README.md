@@ -6,7 +6,7 @@ Atualmente, curso **Bacharelado em Ciência e Tecnologia na UFMA** e possuo viv�
 
 ### 💻 Tecnologias e Ferramentas
 * **Linguagens:** TypeScript, JavaScript, Java, Python
-* **Backend:** Node.js, Express, Prisma ORM, API REST
+* **Backend:** Node.js, Express, Prisma ORM, Sequelize ORM, API REST
 * **Frontend:** React.js, Tailwind, React Router, HTML, CSS
 * **Banco de Dados:** PostgreSQL, MongoDB
 * **DevOps e Versionamento:** Docker, Git
